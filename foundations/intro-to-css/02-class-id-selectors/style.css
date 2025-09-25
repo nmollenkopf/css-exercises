@@ -1,1 +1,19 @@
-/* Add CSS Styling */
+.odd-format {
+    background-color: rgb(255, 192, 203);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#first-id {
+    color: rgb(48, 14, 150);
+    font-size: 32px;
+}
+
+.third {
+    font-size: 24px;
+}
+
+.fourth-format {
+    background-color: rgb(63, 173, 111);
+    font-size: 24px;
+    font-weight: bold;
+}
